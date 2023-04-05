@@ -14,6 +14,13 @@ To get started with this API, follow these steps:
 * Start the server: npm start
 * The API will be available at http://localhost:3005.
 ```
+# Using API without hosting
+You can also use the API without having to install all the packages and create a web server. 
+Its available at the RapidAPI website: https://rapidapi.com/HeenLight/api/slur-api1
+The site provides instructions and a playground for testing the API. 
+## Limitations:
+3000 requests per day, or if you want to support my work you can take a premium subscription where no limit. 
+
 
 # API Endpoints
 
